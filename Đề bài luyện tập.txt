@@ -1,0 +1,14 @@
+Luyện tập về hàm def
+
+Bài 1:
+- Tạo 2 file: ham.py và main.py
+- Trong file ham.py tạo def connect_string(a : str, b : str): -> str:
+- hàm connect_string trả về 1 xâu kết nối 2 xâu a và b
+- Chạy hàm trong main.py
+- chương trình yêu cầu người dùng nhập 2 xâu con nhỏ
+Ví dụ
+Nhập xâu a: abcabc
+Nhập xâu b: 1234
+
+Chương trình trả về:
+Xâu c kết hợp là: abcabc1234
