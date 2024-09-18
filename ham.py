@@ -1,8 +1,8 @@
-def connect_string(a : str,b : str) -> str:
-    return a + b
-
+def check_odd(bon : int) -> int:
+    return
 if __name__ == "__main__":
-    a = str(input())
-    b = str(input())
-    c = connect_string(a,b)
-    print(c)
+    bon=int(input())
+    if bon%2==1:
+        print('le')
+    else:
+        print('chan')
