@@ -40,7 +40,7 @@ Bài 2:
 - Tạo chương trình cho người dùng nhập vào 5 phần tử, sau đó tìm ra vị trí của số âm đầu tiên ở trong list
 
 Bài 3:
-- Tạo chương trình nhập vào n phần tử, sau đó tính số lương phần tử dương liên tiếp gần nhất
+- Tạo chương trình nhập vào n phần tử, sau đó tính số lương phần tử dương liên tiếp lớn nhất
 Ví dụ: n = 3
 1
 2
