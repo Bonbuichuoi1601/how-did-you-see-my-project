@@ -1,11 +1,5 @@
-def check_odd(bon : int) -> int: #Hàm nhận int trả về bool
-    return
-
-if __name__ == "__main__":
-
-    # Toàn bộ phía dưới chyển chuyển vào check_odd
-    bon=int(input())
+def check_odd(bon : int) -> bool: #Hàm nhận int trả về bool
     if bon%2==1:
-        print('le')
+        return(True)
     else:
-        print('chan')
+        return(False)
