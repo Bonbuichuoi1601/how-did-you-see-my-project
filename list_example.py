@@ -6,8 +6,8 @@ def add_to_list():
         arr.append(int(input(f"Phan tu thu {i}:")))
 
     print(arr)
-    for element in arr:
-        print(element)
+    for index,element in enumerate(arr):
+        print(index, element)
 
 if __name__ == "__main__":
     add_to_list()
