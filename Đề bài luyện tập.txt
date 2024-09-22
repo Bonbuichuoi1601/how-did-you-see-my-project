@@ -45,4 +45,8 @@ Ví dụ: n = 3
 1
 2
 -3
+<<<<<<< Updated upstream
 Kết quả: 2
+=======
+Kết quả: 
+>>>>>>> Stashed changes
