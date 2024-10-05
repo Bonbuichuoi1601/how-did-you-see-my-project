@@ -1,4 +1,4 @@
-# add to list
+
 def add_to_list():
     n = int(input("Co bao nhieu phan tu trong mang:"))
     arr = []
