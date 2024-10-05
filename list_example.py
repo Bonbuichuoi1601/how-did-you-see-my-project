@@ -11,3 +11,9 @@ def add_to_list():
 
 if __name__ == "__main__":
     add_to_list()
+
+# 1,2,3,4,-5,2,3,-6
+# ket qua 4
+
+# 1,2,3,6,5,2,4,-6,-7,2,3,-5
+# ket qua 7
