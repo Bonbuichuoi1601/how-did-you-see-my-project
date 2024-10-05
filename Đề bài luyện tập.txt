@@ -45,8 +45,8 @@ Ví dụ: n = 3
 1
 2
 -3
-<<<<<<< Updated upstream
 Kết quả: 2
-=======
-Kết quả: 
->>>>>>> Stashed changes
+
+Bài tập phụ trợ bài 3:
+- Nhập vào 1 list, in ra số lớn nhất của list
+- Nhập vào 1 list, in ra tất cả những list nhỏ có các số dương liền kề bên trong 
