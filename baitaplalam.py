@@ -14,16 +14,24 @@ def bai_3():
    inh=(n*1.8+32)
    print (inh)
 def bai_4():
-   a=int(input())
-   if a%2==0:
+   b=int(input())
+   if ab%2==0:
       print(True)
    else:
       print(False)
 
 def bai_5():
-    a=int(input())
-    if a<100 and a>50 and a%3==0 :
+    ab=int(input())
+    if ab<100 and ab>50 and ab%3==0 :
        print(True)
     else:
         print(False)
-bai_5()
+
+def bai_6():
+    a= int (input())
+    if a<=20 or a>=70:
+      if a%5==0:
+         print(True)
+    else:
+        print(False)
+bai_6()
