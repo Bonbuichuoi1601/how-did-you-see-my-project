@@ -42,4 +42,11 @@ def bai_7():
       print (True)
    else:
       print(False)
-bai_7()
+
+def bai_8():
+   a=int(input())
+   if a<0:
+      print(False)
+   else:
+      print (True)
+bai_8()
