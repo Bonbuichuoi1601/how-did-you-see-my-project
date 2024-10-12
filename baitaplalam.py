@@ -102,4 +102,12 @@ def bai_21():
       cac_thang[2] +=1
    thang = int(input("nhap thang "))
    ngay=int(input("nhap ngay "))
-   print(cac_thang[thang])
+   tongngay=0
+   for sothang in range (1,thang):
+      tongngay=int(cac_thang[sothang])+tongngay
+   print (tongngay+ngay)
+def bai_26():
+   a=int(input())
+   for i in range (1,11):
+      print(f"{a}x{i}={a*i}" )
+bai_26()
